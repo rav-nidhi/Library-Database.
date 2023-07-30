@@ -1,12 +1,4 @@
-/*
- * Name: Nidhi Ravala
- * EUID: nsr0065
- * Date: 18 March 2023
- * Course: CSCE 1040
- * Assignment: Homework 3
- */
- 
-//Program Description: Function definitions of audio cd
+//function definitions of audio cd
 
 #include <iostream>
 using namespace std;
