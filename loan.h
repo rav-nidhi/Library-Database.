@@ -1,12 +1,4 @@
-/*
- * Name: Nidhi Ravala
- * EUID: nsr0065
- * Date: 18 April 2023
- * Course: CSCE 1040
- * Assignment: Homework 4
- */
- 
-//Program Description: Class defintion for loan
+//class defintion for loan
 
 #ifndef LOAN_H
 #define LOAN_H
