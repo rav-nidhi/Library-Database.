@@ -1,14 +1,4 @@
-/*
- * Name: Nidhi Ravala
- * EUID: nsr0065
- * Date: 18 April 2023
- * Course: CSCE 1040
- * Assignment: Homework 4
- */
- 
-//Program Description: Function definitions of library items (with a vector of library item object pointers)
-
-//This is part of a C++ program is a project written to mimic a Library Database. This file contains to the function definitions for Library Item, which is a class made up of three derived classes (book, audio cd, and dvd).
+//function definitions of library items (with a vector of library item object pointers)
 
 #include <iostream>
 #include <iomanip>
